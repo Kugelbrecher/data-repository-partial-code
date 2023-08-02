@@ -11,4 +11,5 @@ the challenges in incorporating real-world datasets into curricula. The project 
 efforts in promoting and facilitating the effective use of government economic data and beyond, as well as developing curated student 
 friendly open government datasets that support data science learning, research, and teaching.
 
-![FondrenPoster](https://github.com/Kugelbrecher/data-repository-partial-code/assets/102303517/5af19bcc-3c0b-455d-a429-5eb100981a70)
+
+<img src="FondrenPoster.png">
