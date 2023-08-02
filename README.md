@@ -11,5 +11,7 @@ the challenges in incorporating real-world datasets into curricula. The project 
 efforts in promoting and facilitating the effective use of government economic data and beyond, as well as developing curated student 
 friendly open government datasets that support data science learning, research, and teaching.
 
+Feel free to check our future [presentation](https://events.stlouisfed.org/event/ef0ef61c-c17c-4b40-bf76-3620312d41c0/websitePage:bb536944-f48b-4c01-b4e7-79d28bd16649) at Fed:
+
 
 <img src="FondrenPoster.png">
